@@ -1,0 +1,13 @@
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\bin\Debug\netstandard2.0\Xamarin_first.deps.json
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\bin\Debug\netstandard2.0\Xamarin_first.dll
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\bin\Debug\netstandard2.0\ref\Xamarin_first.dll
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\Xamarin_first.AssemblyInfoInputs.cache
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\Xamarin_first.AssemblyInfo.cs
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\Xamarin_first.dll
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\ref\Xamarin_first.dll
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\View\AddNewPage.xaml.g.cs
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\View\HomePage.xaml.g.cs
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\Xamarin_first.csproj.Fody.CopyLocal.cache
+C:\Users\Alexa\source\repos\Xamarin_first\Xamarin_first\Xamarin_first\obj\Debug\netstandard2.0\XamlC.stamp

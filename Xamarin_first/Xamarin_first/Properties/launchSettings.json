@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xamarin_first": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
